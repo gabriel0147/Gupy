@@ -1,0 +1,9 @@
+senha: postgres
+porta: 5432
+
+roda backend
+.\mvnw spring-boot:run
+
+front
+npm run dev
+
